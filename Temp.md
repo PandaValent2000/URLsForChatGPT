@@ -13,7 +13,7 @@ Follow the steps below (use the images as references) or watch the video!
 
 Open the folder where Five Nights At Frickbear's 3 is installed.
 
-![Game folder](attachments/image.png)
+![Game folder](<img width="676" height="571" alt="image" src="https://github.com/user-attachments/assets/f269b33f-98a4-4813-9986-633a802a1e87" />)
 
 ---
 
@@ -21,7 +21,7 @@ Open the folder where Five Nights At Frickbear's 3 is installed.
 
 Create a new folder and name it whatever you want (as long as you’ll remember it’s your backup).
 
-![Create backup folder](attachments/image.png)
+![Create backup folder](<img width="712" height="592" alt="image" src="https://github.com/user-attachments/assets/52915d6f-5db1-4d98-b48e-e9e4c8bde7c7" />)
 
 ---
 
@@ -29,7 +29,7 @@ Create a new folder and name it whatever you want (as long as you’ll remember 
 
 Copy the `data.win` file that’s already inside the Frickbear's 3 folder.
 
-![Copy original data.win](attachments/image.png)
+![Copy original data.win](<img width="645" height="585" alt="image" src="https://github.com/user-attachments/assets/7b079db9-09bc-4035-bfd4-7e4e97d43e3f" />)
 
 ---
 
@@ -37,7 +37,7 @@ Copy the `data.win` file that’s already inside the Frickbear's 3 folder.
 
 Paste that original `data.win` into the backup folder you just made.
 
-![Paste into backup](attachments/image.png)
+![Paste into backup](<img width="631" height="434" alt="image" src="https://github.com/user-attachments/assets/e1de1159-411a-4181-ba09-e97b850bada4" />)
 
 ---
 
@@ -45,7 +45,7 @@ Paste that original `data.win` into the backup folder you just made.
 
 Go to the mod folder and copy the `data.win` that the mod provided.
 
-![Copy mod data.win](attachments/image.png)
+![Copy mod data.win](<img width="623" height="329" alt="image" src="https://github.com/user-attachments/assets/3fdc9998-95ac-44f3-8b2f-f4c2131591cd" />)
 
 ---
 
@@ -53,7 +53,8 @@ Go to the mod folder and copy the `data.win` that the mod provided.
 
 Paste the mod’s `data.win` into the main Frickbear's 3 folder (the one that originally had the data.win).
 
-![Paste mod data.win](https://images.gamebanana.com/img/ss/tuts/69c2cbcd7cb03.jpg)
+![Paste mod data.win](<img width="648" height="565" alt="image" src="https://github.com/user-attachments/assets/bb22d109-67d9-42b0-9776-a3a940a1265d" />)
+
 
 ---
 
