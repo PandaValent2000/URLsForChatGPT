@@ -5,7 +5,7 @@
 Hello! This is a tutorial for Frickbear's 3 that shows you how to install a mod that comes with a data.win file.
 
 Have you ever downloaded a mod that includes a "Data.win" and had no idea what to do with it?  
-Follow the steps below (use the images as references) or watch the video!
+Follow the steps below (use the images as references) or ![<u>watch the video!</u>](<iframe width="560" height="315" src="https://www.youtube.com/embed/yyZaK-rM_4o?si=_C8T3Rx7D-6-1d_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ---
 
