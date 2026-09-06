@@ -53,7 +53,7 @@ Go to the mod folder and copy the `data.win` that the mod provided.
 
 Paste the mod’s `data.win` into the main Frickbear's 3 folder (the one that originally had the data.win).
 
-![Paste mod data.win](attachments/image.png)
+![Paste mod data.win](https://images.gamebanana.com/img/ss/tuts/69c2cbcd7cb03.jpg)
 
 ---
 
