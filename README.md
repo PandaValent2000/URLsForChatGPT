@@ -1,10 +1,7 @@
-# ⚠️ PLEASE FOR THE LOVE OF GOD Format your files first before uploading any files ⚠️
-
+This README is meant for source code files only.
 This repo is **NOT** meant to be public at all.
 
-This is only for code files.
-
-Here's what I mean.
+# ⚠️ PLEASE FOR THE LOVE OF GOD READ THESE INSTRUCTIONS ⚠️
 
 ## Do ✔️
 
